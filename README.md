@@ -21,7 +21,7 @@ This repository contains the source code for a chatting microservice developed w
 2. Navigate to the project directory:
 
    ```
-   cd chatting-microservice
+   cd chatty-microservice
    ```
 
 3. Install dependencies:
